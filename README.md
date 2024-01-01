@@ -40,20 +40,38 @@ Quais são os tipos de cartão:
 
 ![QUERY6](https://github.com/luisfernandogbraga/USANDO_SQL_PARA_FAZER_UMA_BREVE_ANALISE/assets/134460985/7a1f5f86-973f-4953-b005-e85961154ac7)
 
+#ANÁLISE DE DADOS
+
 Quantos Homens e Mulheres contem nessa base de dados:
 
 ![QUERY7](https://github.com/luisfernandogbraga/USANDO_SQL_PARA_FAZER_UMA_BREVE_ANALISE/assets/134460985/9e0d6de9-395a-449d-afdd-fbef88a66b3d)
-
-Qual é a facha de idade dos clientes desse banco:
-
-![QUERY8](https://github.com/luisfernandogbraga/USANDO_SQL_PARA_FAZER_UMA_BREVE_ANALISE/assets/134460985/4061670d-98a5-445b-9ee6-96d1b3e0826a)
-
-#ANÁLISE DE DADOS
 
 Quantos clientes temos de cada faixa salarial:
 
 ![QUERY15](https://github.com/luisfernandogbraga/USANDO_SQL_PARA_FAZER_UMA_BREVE_ANALISE/assets/134460985/0eef0a6d-33ac-4eb1-8448-672096229247)
 
+Qual é a facha de idade dos clientes desse banco:
 
+![QUERY16](https://github.com/luisfernandogbraga/USANDO_SQL_PARA_FAZER_UMA_BREVE_ANALISE/assets/134460985/51a8fa7f-7951-4585-8c22-bd1790eb1a42)
+
+Quais as características dos clintes que possum os maiores creditos:
+
+![QUERY10](https://github.com/luisfernandogbraga/USANDO_SQL_PARA_FAZER_UMA_BREVE_ANALISE/assets/134460985/b8f78c0b-e0a8-4d2a-a728-0e1cff73e235)
+
+#CONCLUSÃO
+
+Alguns INSIHTS interessantes
+
+. a maior parte dos clintes possui renda até 40k
+
+. a maior parte dos clientes é masculino
+
+. a escolaridade não parece influênciar no limite nem no tipo do cartão
+
+. os clientes com maiores limites sáo em sua maioria homens
+
+. a faixa salarial impacta diretamente no limite de crédito
+
+. não existem clientes com salário anual acima de 60k do sexo feminino
 
 
