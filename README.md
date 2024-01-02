@@ -36,9 +36,13 @@ Descobrir a faixa salárial de cada cliente:
 
 ![QUERY5](https://github.com/luisfernandogbraga/USANDO_SQL_PARA_FAZER_UMA_BREVE_ANALISE/assets/134460985/1df57010-862b-4e3b-8ad2-09d635dff28a)
 
+![6](https://github.com/luisfernandogbraga/USANDO_SQL_PARA_FAZER_UMA_BREVE_ANALISE/assets/134460985/7e37c061-cbc4-44fe-be10-17ac799e05e5)
+
 Quais são os tipos de cartão:
 
 ![QUERY6](https://github.com/luisfernandogbraga/USANDO_SQL_PARA_FAZER_UMA_BREVE_ANALISE/assets/134460985/7a1f5f86-973f-4953-b005-e85961154ac7)
+
+![6](https://github.com/luisfernandogbraga/USANDO_SQL_PARA_FAZER_UMA_BREVE_ANALISE/assets/134460985/02bbd5aa-40e3-46e2-8b93-8b4dfee5a6a6)
 
 #ANÁLISE DE DADOS
 
@@ -46,9 +50,17 @@ Quantos Homens e Mulheres contem nessa base de dados:
 
 ![QUERY7](https://github.com/luisfernandogbraga/USANDO_SQL_PARA_FAZER_UMA_BREVE_ANALISE/assets/134460985/9e0d6de9-395a-449d-afdd-fbef88a66b3d)
 
+![7](https://github.com/luisfernandogbraga/USANDO_SQL_PARA_FAZER_UMA_BREVE_ANALISE/assets/134460985/0cea4f24-3f4b-492d-aaab-4003dc6e0da8) ![image](https://github.com/luisfernandogbraga/USANDO_SQL_PARA_FAZER_UMA_BREVE_ANALISE/assets/134460985/d9ae804c-b673-4ea7-8fab-774cdd2d94dd)
+
+
+
+
 Quantos clientes temos de cada faixa salarial:
 
-![QUERY15](https://github.com/luisfernandogbraga/USANDO_SQL_PARA_FAZER_UMA_BREVE_ANALISE/assets/134460985/0eef0a6d-33ac-4eb1-8448-672096229247)
+![query8](https://github.com/luisfernandogbraga/USANDO_SQL_PARA_FAZER_UMA_BREVE_ANALISE/assets/134460985/f7eceace-4a3d-4fbe-b515-5757a7c6e697)
+
+![8](https://github.com/luisfernandogbraga/USANDO_SQL_PARA_FAZER_UMA_BREVE_ANALISE/assets/134460985/85d1f47e-76c2-4802-a391-6287dda9b94f)
+
 
 Qual é a facha de idade dos clientes desse banco:
 
